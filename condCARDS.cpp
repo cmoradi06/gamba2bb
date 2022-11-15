@@ -35,10 +35,10 @@ void condCARDS(int randZ) {
               else if (randA <= 99) {
                 jackCARDS += 1000;
                 std::cout << "you got back 10 king cards (1000 jack cards)";
-              }
-              else {
-              jackCARDS += 2000;
-              std::cout << "you got back 20 king cards (2000 jack cards)";
-              }
+                }
+                else {
+                  jackCARDS += 2000;
+                  std::cout << "you got back 20 king cards (2000 jack cards)";
+                  }
 
 }
