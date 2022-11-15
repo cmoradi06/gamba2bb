@@ -6,7 +6,7 @@
 
 int randNUMBER();
 void condCARDS(int randY);
-int jackCARDS;
+int jackCARDS = 0;
 
 int main() {
   jackCARDS = 2000;
