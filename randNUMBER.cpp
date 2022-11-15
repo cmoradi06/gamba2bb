@@ -6,7 +6,6 @@
 
 int main();
 void condCARDS(int randY);
-int jackCARDS;
 
 int randNUMBER() {
   int randN;
