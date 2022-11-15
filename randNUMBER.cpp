@@ -5,7 +5,8 @@
 #include <ostream>
 
 int main();
-void condHAIR(int randY);
+void condCARDS(int randY);
+int jackCARDS;
 
 int randNUMBER() {
   int randN;
